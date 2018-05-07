@@ -3,9 +3,9 @@
 
 效果图：
 
-![image](https://github.com/zuiwuyuan/ImgDots/blob/master/imgs/imgdots.gif)
+![image](https://github.com/lihangleo2/Imgdots/blob/master/imgs/GIF.gif)
 
 详细介绍：
-http://blog.csdn.net/zuiwuyuan/article/details/52105176
+https://blog.csdn.net/leol_2/article/details/80225435
 
-如果对你有所启发，请star下吧，谢谢。
+如果对你有所启发，请star下吧
