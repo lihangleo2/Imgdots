@@ -1,6 +1,8 @@
 # ImgDots
 [![GitHub version](https://badge.fury.io/gh/lihangleo2%2FImgdots.svg)](https://badge.fury.io/gh/lihangleo2%2FImgdots)
 
+![downloads](https://badge.fury.io/gh/lihangleo2%2FImgdots.svg)
+
 在图片的特定位置显示标签，标签可以点击
 
 效果图：
