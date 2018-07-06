@@ -1,7 +1,6 @@
 # ImgDots
 [![GitHub version](https://badge.fury.io/gh/lihangleo2%2FImgdots.svg)](https://badge.fury.io/gh/lihangleo2%2FImgdots)
 
-<a href="https://badge.fury.io/gh/lihangleo2%2FImgdots"><img src="https://badge.fury.io/gh/lihangleo2%2FImgdots.svg" alt="GitHub version" height="18"></a>
 
 在图片的特定位置显示标签，标签可以点击
 
