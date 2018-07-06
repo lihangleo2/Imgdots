@@ -1,5 +1,6 @@
 # ImgDots
-![downloads](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core.svg)
+![downloads](https://img.shields.io/cocoapods/dt/AFNetworking.svg)
+
 在图片的特定位置显示标签，标签可以点击
 
 效果图：
