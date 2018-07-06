@@ -1,5 +1,5 @@
 # ImgDots
-![downloads](https://img.shields.io/cocoapods/dt/AFNetworking.svg)
+![downloads](https://img.shields.io/cocoapods/dt/Imgdots.svg)
 
 在图片的特定位置显示标签，标签可以点击
 
