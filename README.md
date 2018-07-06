@@ -1,5 +1,5 @@
 # ImgDots
-![downloads](https://img.shields.io/cocoapods/dt/Imgdots.svg)
+[![GitHub version](https://badge.fury.io/gh/lihangleo2%2FImgdots.svg)](https://badge.fury.io/gh/lihangleo2%2FImgdots)
 
 在图片的特定位置显示标签，标签可以点击
 
