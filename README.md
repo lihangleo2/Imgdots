@@ -1,6 +1,10 @@
 # ImgDots
 [![GitHub version](https://badge.fury.io/gh/lihangleo2%2FImgdots.svg)](https://badge.fury.io/gh/lihangleo2%2FImgdots)
 
+[![CircleCI](https://img.shields.io/circleci/project/github/lihangleo2/Imgdots.svg)]
+[![npm](https://img.shields.io/npm/v/Imgdots.svg)]
+[![npm](https://img.shields.io/npm/dt/Imgdots.svg)]
+
 
 在图片的特定位置显示标签，标签可以点击
 
