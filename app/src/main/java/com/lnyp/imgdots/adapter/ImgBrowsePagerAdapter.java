@@ -64,7 +64,7 @@ public class ImgBrowsePagerAdapter extends PagerAdapter {
 
         try {
 
-            String imgUrl = imgSimples.get(position).url;
+            Integer imgUrl = imgSimples.get(position).url;
             int pic_with = imgSimples.get(position).pic_with;
             int pic_height = imgSimples.get(position).pic_height;
             ArrayList<PointSimple> pointSimples = imgSimples.get(position).pointSimples;

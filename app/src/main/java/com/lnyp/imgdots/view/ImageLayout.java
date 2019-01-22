@@ -84,7 +84,7 @@ public class ImageLayout extends FrameLayout implements View.OnClickListener {
         super.onSizeChanged(w, h, oldw, oldh);
     }
 
-    public void setImgBg(int pic_with, int pic_height, String imgUrl) {
+    public void setImgBg(int pic_with, int pic_height, Integer imgUrl) {
 
         ViewGroup.LayoutParams lp = imgBg.getLayoutParams();
         lp.width = UIUtil.getWidth(getContext());

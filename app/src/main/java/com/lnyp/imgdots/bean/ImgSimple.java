@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ImgSimple {
 
-    public String url;
+    public Integer url;
     public ArrayList<PointSimple> pointSimples;
     public int pic_with;
     public  int pic_height;
