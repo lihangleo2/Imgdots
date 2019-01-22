@@ -6,7 +6,7 @@
 
 效果图：
 
-![image](https://github.com/lihangleo2/Imgdots/blob/master/imgs/GIF.gif)
+![image](https://github.com/lihangleo2/Imgdots/blob/master/newDots.gif)
 
 详细介绍：
 https://blog.csdn.net/leol_2/article/details/80225435
